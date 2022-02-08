@@ -15,7 +15,7 @@ __Description__ : Returns a 5-day forecast of the chosen city with:
 ## history.py
 
 **Usage** -> python history.py "CITY" YEAR MONTH\
-*Note*: CITY must be set between "" in case of 2 names (example: Long Beach)\
+*Note*: CITY must be set between "" in case of 2 names (example: Long Beach)
 
 __Description__ : Returns a monthly forecast of the chosen city for the given month with the APIs complete information
   
