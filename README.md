@@ -20,3 +20,4 @@ __Description__ : Returns a 5-day forecast of the chosen city with:
 __Description__ : Returns a monthly forecast of the chosen city for the given month with the APIs complete information
   
 
+Requirements still to be created/updated
